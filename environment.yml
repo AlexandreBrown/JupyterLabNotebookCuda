@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+dependencies:
+  - pip>=21.0.0
+  - jupyterlab==3.1.7
+  - ipywidgets>=7.0.0
+  - jupyterlab-system-monitor>=0.8.0
+  - jupyterlab-nvdashboard>=0.6.0
+  - jupyterlab_execute_time>=2.0.5
+  - jupyterlab-git>=0.32.3
+  - jupyterlab-lsp>=3.8.1
+  - python-lsp-server>=1.2.2
+  - ipympl>=0.7.0
+  - theme-darcula>=3.0.1
+  - nodejs>=16.6.1
